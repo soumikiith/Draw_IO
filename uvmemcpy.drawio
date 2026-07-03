@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="Y5dK3S957oPX11ZsjxOc">
-    <mxGraphModel dx="2921" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3159" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -317,14 +317,28 @@
             <mxPoint x="40" y="2840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D3luPBGH5lWN4PElYYYG-5" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;">
+        <mxCell id="D3luPBGH5lWN4PElYYYG-6" edge="1" parent="1" source="D3luPBGH5lWN4PElYYYG-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=open;startFill=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="2941" />
-              <mxPoint x="220" y="2941" />
+              <mxPoint x="20" y="2923" />
             </Array>
-            <mxPoint x="20" y="2930" as="sourcePoint" />
-            <mxPoint x="220" y="2920" as="targetPoint" />
+            <mxPoint x="196" y="2923" as="sourcePoint" />
+            <mxPoint x="20" y="2936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D3luPBGH5lWN4PElYYYG-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Comic Sans MS;" value="Page faults" vertex="1">
+          <mxGeometry height="30" width="110" x="160" y="2908" as="geometry" />
+        </mxCell>
+        <mxCell id="D3luPBGH5lWN4PElYYYG-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontFamily=Comic Sans MS;" value="Page fault driven page migrations" vertex="1">
+          <mxGeometry height="50" width="190" x="280" y="2850" as="geometry" />
+        </mxCell>
+        <mxCell id="D3luPBGH5lWN4PElYYYG-9" edge="1" parent="1" source="D3luPBGH5lWN4PElYYYG-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=open;startFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="2875" />
+            </Array>
+            <mxPoint x="346" y="2868.5" as="sourcePoint" />
+            <mxPoint x="170" y="2881.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
