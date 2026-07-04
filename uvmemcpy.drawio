@@ -133,10 +133,10 @@
         <mxCell id="QXu7A4GlK6LqlsyDpKJf-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Georgia&quot;&gt;&lt;i&gt;...&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="-520" y="1350" as="geometry" />
         </mxCell>
-        <mxCell id="QXu7A4GlK6LqlsyDpKJf-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Georgia;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;color: rgb(128, 128, 128);&quot;&gt;Branch 1&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="QXu7A4GlK6LqlsyDpKJf-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Georgia;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i style=&quot;color: rgb(128, 128, 128);&quot;&gt;Branch 1&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="260" y="216" as="geometry" />
         </mxCell>
-        <mxCell id="QXu7A4GlK6LqlsyDpKJf-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Georgia;fontColor=#808080;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;Branch 2&lt;/i&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="QXu7A4GlK6LqlsyDpKJf-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Georgia;fontColor=#808080;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;i&gt;Branch 2&lt;/i&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="90" x="490" y="216" as="geometry" />
         </mxCell>
         <mxCell id="QXu7A4GlK6LqlsyDpKJf-9" edge="1" parent="1" source="QXu7A4GlK6LqlsyDpKJf-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;fillColor=#f9f7ed;strokeColor=#36393d;" target="QXu7A4GlK6LqlsyDpKJf-13">
